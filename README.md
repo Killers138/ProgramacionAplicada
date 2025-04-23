@@ -1,1 +1,1 @@
-Codigos y talleres del corte #1.
+Codigos y talleres del curso "Programacion Aplicada (005-9)".
